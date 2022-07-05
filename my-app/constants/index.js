@@ -839,5 +839,5 @@ export const EXCHANGE_CONTRACT_ABI = [
     "stateMutability": "nonpayable",
     "type": "function"
   }
-];
-export const EXCHANGE_CONTRACT_ADDRESS = "0x3e946c57FC72fF7591821CB85755609132c187C6";
+] ;
+export const EXCHANGE_CONTRACT_ADDRESS = "0xFC78eAAAd97795B502252ddfdDA5258067e9D03d";
